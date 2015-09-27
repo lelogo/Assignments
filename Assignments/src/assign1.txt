@@ -1,0 +1,19 @@
+Program analysis and test cases  Nilabja Bardhan
+
+
+1. 
+inputs: 2 ints. error if user inputs non-ints. (caught) 
+
+outputs: 1 int: sum of inputs
+
+Test cases: 
+int 1      int 2      answer expected      answer gotten
+1			2				3					3	
+			n/a				error				error			
+a			n/a				error				error
+1			a				error				error
+2.3			n/a				error				error
+
+conclusion: program works
+
+2.
